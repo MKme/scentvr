@@ -1,20 +1,24 @@
 # scentvr
-Files and information for ScentVR
+Files and information for ScentVR which adds scents and smells to virtual reality (VR) 
+ScentVR provides a new depth of realism to ALL VR games and simulations with no special software, SDK or hardware. 
 
 
 
 ## Web Resources 
 
-TBD
+Website: https://scentvr.ca
+
+ScentVR Forums: https://forum.mkme.org/viewforum.php?f=50&sid=5a495042df70a917d47b383dd79b4a4d
+
 
 
 ## Videos
 
-
+TBD
 
 ## Replacement Parts
 
-
+Replacement part stl files will be made available so users can repair, modify or expand their own hardware. 
 
 ## Tips
 
