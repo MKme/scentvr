@@ -10,7 +10,7 @@ Chat with Me: <a href="https://discord.gg/j9S4Fgv">Discord</a></b>!
 </p>
 
 
-# scentvr
+# ScentVR
 Files and information for ScentVR which adds scents and smells to virtual reality (VR) 
 ScentVR provides a new depth of realism to ALL VR games and simulations with no special software, SDK or hardware. 
 
