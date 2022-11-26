@@ -20,6 +20,8 @@ ScentVR provides a new depth of realism to ALL VR games and simulations with no 
 
 Website: https://scentvr.ca
 
+Buy ScentVR: https://store.mkme.org/?product=scentvr-starter-pack
+
 ScentVR Forums: https://forum.mkme.org/viewforum.php?f=50&sid=5a495042df70a917d47b383dd79b4a4d
 
 
