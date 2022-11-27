@@ -24,7 +24,7 @@ Buy ScentVR: https://store.mkme.org/?product=scentvr-starter-pack
 
 ScentVR Forums: https://forum.mkme.org/viewforum.php?f=50&sid=5a495042df70a917d47b383dd79b4a4d
 
-
+Facebook Group: https://www.facebook.com/groups/1103361500348776
 
 ## Videos
 
@@ -48,8 +48,8 @@ Handy Stuff
 TTested Scents and their links:
 | Name| Link| Notes
 | -------------------------------------- | --------- |--------- |
-|  SirayaTech Build| super easy print v. strong| max 100 deg C. 
-|  50% SirayaTech Build 50% SirayaTech Tanacious| easy print strong not brittle| max. 73 deg. C.
+|  P&J Trading Camping Pack |https://amzn.to/3EIwHeJ | Camping Set of 6 Premium Grade Fragrance Oils - Campfire, Smores, Dirt, Fresh Cut Wood, Night Air, Cedar 
+|  P&J Trading Nature Pack| https://amzn.to/3GPS6oV | Forest Pine, Ocean Breeze, Rain, Fresh Cut Grass, Sandalwood, Bamboo - 10ml
 
 
 
