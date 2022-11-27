@@ -45,11 +45,12 @@ Handy Stuff
 
 ## Scents
 
-TTested Scents and their links:
+Tested Scents and their links:
 | Name| Link| Notes
 | -------------------------------------- | --------- |--------- |
 |  P&J Trading Camping Pack |https://amzn.to/3EIwHeJ | Camping Set of 6 Premium Grade Fragrance Oils - Campfire, Smores, Dirt, Fresh Cut Wood, Night Air, Cedar 
 |  P&J Trading Nature Pack| https://amzn.to/3GPS6oV | Forest Pine, Ocean Breeze, Rain, Fresh Cut Grass, Sandalwood, Bamboo - 10ml
+|  P&J Trading Campfire Smell | https://amzn.to/3Ve7LCP  | Campfire Fragrance Oil - Premium Grade Scented Oil - 30ml| 
 
 
 
