@@ -54,6 +54,3 @@ Tested Scents and their links:
 | Lab Distiller Setup | https://amzn.to/3XG1Isw | Super basic distiller setup for making scents (commonly used for essential oils) 
 
 
-
-Attribution
-This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License. https://creativecommons.org/licenses/by-nc/4.0/ 
