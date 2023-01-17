@@ -34,6 +34,8 @@ TBD
 
 Replacement part stl files will be made available so users can repair, modify or expand their own hardware. 
 
+https://scentvr.ca/parts-upgrades/
+
 ## Tips
 
 Handy Stuff
