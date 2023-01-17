@@ -36,6 +36,8 @@ Replacement part stl files will be made available so users can repair, modify or
 
 https://scentvr.ca/parts-upgrades/
 
+https://github.com/MKme/scentvr/tree/main/Replacement%20Parts
+
 ## Tips
 
 Handy Stuff
